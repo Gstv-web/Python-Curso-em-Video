@@ -1,0 +1,1172 @@
+
+
+[2021-06-11 00:15:04] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-11 00:15:04] [AppID 7] Not running AutoCloud. No config data found
+[2021-06-11 00:15:04] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-11 00:15:04] Starting sync job
+[2021-06-11 00:15:04] [AppID 7] Starting sync (init,)
+[2021-06-11 00:15:08] Starting sync job
+[2021-06-11 00:15:08] [AppID 7] Starting sync (down,)
+[2021-06-11 00:15:08] [AppID 7] Download failed due to conflicts in build list
+[2021-06-11 00:15:34] Starting sync job
+[2021-06-11 00:15:34] [AppID 7] Starting sync (up,resolve,)
+[2021-06-11 00:15:35] [AppID 7] Resolving file sharedconfig.vdf from state 4, bUseLocal = true
+[2021-06-11 00:15:35] [AppID 7] Resolving file serverbrowser_hist.vdf from state 2, bUseLocal = true
+[2021-06-11 00:15:35] [AppID 7] File serverbrowser_hist.vdf is not on disk and bUseLocal = true. Using remote version instead
+[2021-06-11 00:15:35] [AppID 7] Need to upload file sharedconfig.vdf
+[2021-06-11 00:15:35] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2021-06-11 00:15:35] [AppID 7] Upload batch initiated, ID: 1737008485712318262, ChangeNumber: 10593799465358099522
+[2021-06-11 00:15:35] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2021-06-11 00:15:36] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=163) to (2800:3f0:4001:808::2010 / 2800:3f0:4001:808::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/7/02F_1_1090B0A5_CD8E5_62.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623384935&Signature=ZZd662GSwhZyXE8bL0muupyJPv2ABpC11lF19cdzhl0zm4TqhJQhqX3y6b8Z%2F1jYyyMiIlbC2nuCaOTb054x%2BeB8ct6r%2FnhOFqQd2N3wvQir%2Bg%2F3Ic5QnglX%2B%2B3y0lB%2BmmLRkck26CsxHS3hR6%2FV%2F%2FVhGP3gnyRVE%2FWnkYtzT0lupq4rgiS0Nhkfto9IOJVPURCvthiT2Itbb9FG%2FYglJM4vBhAT9RneoRMYBlQxe%2FlqJ4IJ1ephsvK8DrUxsdlrwTCjjD0uV8trUvQpxz580oPGGYONSgDN3YFqf3WYQkx4%2Bfw3mDSvgVO4j%2F7BoCGtdVmHzDoTU1JlL3SYdGoIHQ%3D%3D - success.
+[2021-06-11 00:15:36] [AppID 7] Upload OK for file sharedconfig.vdf
+[2021-06-11 00:15:36] [AppID 7] Upload complete, result OK
+[2021-06-11 00:16:04] Starting sync job
+[2021-06-11 00:16:04] [AppID 7] Starting sync (down,)
+[2021-06-11 00:16:04] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2021-06-11 00:16:05] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-11 00:16:05] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-11 00:16:05] [AppID 7] Download OK for file serverbrowser_hist.vdf
+[2021-06-11 00:16:05] [AppID 7] Download complete, result OK
+[2021-06-11 00:19:36] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-06-11 00:19:36] [U:1:149770036] [AppID 268910] Init cache request complete
+[2021-06-11 00:19:36] Starting sync job
+[2021-06-11 00:19:36] [AppID 268910] Starting sync (init,)
+[2021-06-11 00:19:36] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-06-11 00:19:36] Starting sync job
+[2021-06-11 00:19:36] [AppID 268910] Starting sync (eval,)
+[2021-06-11 00:19:36] [AppID 268910] Eval complete
+[2021-06-11 00:20:05] Starting sync job
+[2021-06-11 00:20:05] [AppID 7] Starting sync (up,)
+[2021-06-11 00:20:05] [AppID 7] Need to upload file sharedconfig.vdf
+[2021-06-11 00:20:05] [AppID 7] Upload batch initiated, ID: 4866876225389181607, ChangeNumber: 12076090005746222249
+[2021-06-11 00:20:05] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2021-06-11 00:20:06] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=229) to (2800:3f0:4001:803::2010 / 2800:3f0:4001:803::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/7/02F_1_1090B0A5_CD8E5_63.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623385205&Signature=PTYyuUH%2FFUtU4a8rbeOxe2mKmHDcjacVCwubNAVrw5Rs5proPJ9JozJdz9%2FNGYSxD37q5qEWY5C%2FyWKngVfFr9EdG5LTY7YI7EJoJRhK2s5d%2BjATpenyiyq01SopxiYNn6Xfcd6FtMdE8rE1MQHyoutRzvBbTi8D2C0Iem9O2SE96Xw0951u%2FETPAN5kMZth7hIhxVk4HDxt%2F8PJdvHG2JgRkuCvYGaKwcu3AIuLUa0LIMIq6%2B1TijskIRtjjQRIA%2BfTRHWTORPSprmibt2l1FkxqKff7ELKb3sq205Fm%2BBB%2BuuZWMUf0pXVgG6uPfwfkZpZ9WHiZlC3h8ukB1vqgQ%3D%3D - success.
+[2021-06-11 00:20:06] [AppID 7] Upload OK for file sharedconfig.vdf
+[2021-06-11 00:20:06] [AppID 7] Upload complete, result OK
+[2021-06-11 00:25:09] [UGC][1007024772344596662] Downloading UGC
+[2021-06-11 00:25:09] [UGC][1007024772344596662] Download completed
+[2021-06-11 00:25:11] [UGC][956347096063773104] Downloading UGC
+[2021-06-11 00:25:11] [UGC][956347096063773104] Download completed
+[2021-06-11 00:25:12] [UGC][772867841695938629] Downloading UGC
+[2021-06-11 00:25:13] [UGC][772867841695938629] Download completed
+[2021-06-11 00:25:42] [UGC][1003683974974614161] Downloading UGC
+[2021-06-11 00:25:43] [UGC][1003683974974614161] Download completed
+[2021-06-11 00:25:43] [UGC][1002557507580165136] Downloading UGC
+[2021-06-11 00:25:43] [UGC][1002557507580165136] Download completed
+[2021-06-11 00:25:44] [UGC][991261615572974511] Downloading UGC
+[2021-06-11 00:25:46] [UGC][991261615572974511] Download completed
+[2021-06-11 00:25:47] [UGC][991261615572974330] Downloading UGC
+[2021-06-11 00:25:47] [UGC][991261615572974330] Download completed
+[2021-06-11 00:25:47] [UGC][952960817906655591] Downloading UGC
+[2021-06-11 00:25:48] [UGC][952960817906655591] Download completed
+[2021-06-11 00:25:48] [UGC][943962255079898054] Downloading UGC
+[2021-06-11 00:25:48] [UGC][943962255079898054] Download completed
+[2021-06-11 00:25:49] [UGC][956346433295989465] Downloading UGC
+[2021-06-11 00:25:49] [UGC][956346433295989465] Download completed
+[2021-06-11 00:25:49] [UGC][851604638009817192] Downloading UGC
+[2021-06-11 00:25:49] [UGC][851604638009817192] Download completed
+[2021-06-11 00:25:50] [UGC][767148481031564973] Downloading UGC
+[2021-06-11 00:25:50] [UGC][767148481031564973] Download completed
+[2021-06-11 00:25:50] [UGC][818937737353552570] Downloading UGC
+[2021-06-11 00:25:50] [UGC][818937737353552570] Download completed
+[2021-06-11 00:25:50] [UGC][93850391747469895] Downloading UGC
+[2021-06-11 00:25:51] [UGC][93850391747469895] Download completed
+[2021-06-11 00:25:51] [UGC][259342887838709315] Downloading UGC
+[2021-06-11 00:25:51] [UGC][259342887838709315] Download completed
+[2021-06-11 00:25:51] [UGC][266097744495173226] Downloading UGC
+[2021-06-11 00:25:51] [UGC][266097744495173226] Download completed
+[2021-06-11 00:25:52] [UGC][361778856651995332] Downloading UGC
+[2021-06-11 00:25:52] [UGC][361778856651995332] Download completed
+[2021-06-11 00:25:52] [UGC][402306273343805185] Downloading UGC
+[2021-06-11 00:25:52] [UGC][402306273343805185] Download completed
+[2021-06-11 00:25:52] [UGC][402305231593752755] Downloading UGC
+[2021-06-11 00:25:52] [UGC][402305231593752755] Download completed
+[2021-06-11 00:25:53] [UGC][581326799407695252] Downloading UGC
+[2021-06-11 00:25:53] [UGC][581326799407695252] Download completed
+[2021-06-11 00:27:32] [AppID 760] AutoCloud checking local state for user 149770036
+[2021-06-11 00:27:32] [U:1:149770036] [AppID 760] Init cache request complete
+[2021-06-11 00:27:32] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-06-11 00:27:32] Starting sync job
+[2021-06-11 00:27:32] [AppID 268910] Starting sync (AC Launch,down,)
+[2021-06-11 00:27:32] [AppID 268910] Download complete in build list
+[2021-06-11 00:27:32] [AppID 268910] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-11 00:27:32] [AppID 268910] AutoCloud done. Watching 0 files
+[2021-06-11 00:27:47] Starting sync job
+[2021-06-11 00:27:47] [AppID 7] Starting sync (up,)
+[2021-06-11 00:27:47] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-06-11 00:27:47] [AppID 7] Upload batch initiated, ID: 4783744931591492266, ChangeNumber: 17433970982532903939
+[2021-06-11 00:27:48] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-06-11 00:27:48] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/7/02E_0_178A86F5_D1F63_242.dat - success.
+[2021-06-11 00:27:49] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-06-11 00:27:49] [AppID 7] Upload complete, result OK
+[2021-06-11 01:47:28] [AppID 268910] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-11 01:47:28] [AppID 268910]     Evaluating rule 0 with root="WinAppDataRoaming" path="Cuphead/" pattern="*.sav"
+[2021-06-11 01:47:28] [AppID 268910]         Found 3 files that match C:\Users\Gusta\AppData\Roaming\Cuphead\*.sav
+[2021-06-11 01:47:28] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_2.sav to the cloud
+[2021-06-11 01:47:28] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_1.sav to the cloud
+[2021-06-11 01:47:28] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_0.sav to the cloud
+[2021-06-11 01:47:28] [AppID 268910] AutoCloud complete
+[2021-06-11 01:47:28] Starting sync job
+[2021-06-11 01:47:28] [AppID 268910] Starting sync (up,AC Exit,)
+[2021-06-11 01:47:28] [AppID 268910] Need to upload file Cuphead/cuphead_player_data_v1_slot_2.sav
+[2021-06-11 01:47:28] [AppID 268910] Need to upload file Cuphead/cuphead_player_data_v1_slot_1.sav
+[2021-06-11 01:47:28] [AppID 268910] Need to upload file Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-06-11 01:47:28] [AppID 268910] Upload batch initiated, ID: 7167165929562976292, ChangeNumber: 16748323256941595000
+[2021-06-11 01:47:28] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_2.sav' beginning . . .
+[2021-06-11 01:47:28] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_1.sav' beginning . . .
+[2021-06-11 01:47:28] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_0.sav' beginning . . .
+[2021-06-11 01:47:29] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_0.sav' (offset=0, length=2237) to (2800:3f0:4001:803::2010 / 2800:3f0:4001:803::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/268910/061_1_1EEC48CA_F33C6_1.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623390448&Signature=SgbI2s8V3w5WObpjvRdaVeaSTJ4Uwa3eZdOo8p06cslCSlZ%2B6u7BOlroHL7R%2BaAp3ZTmOHwKiCslMVTnyPFbJmm%2F7JRxo%2B6qORWJuw4dP9UbmE%2FxZwLI5m3HY6WQ3E6nJyFb1%2FOfNbEomlyGc2YGsubou17Dr7cP2kmlrpfP%2BCkQfaY8%2By8XtOaLlm4m3rlupg6lBvsClZFgdMmyoJaiZ7ETjQ0mKPMyCLOGq9aD2usmKdLkf361lym5akjPTJrMePrmQ%2FhN6CIPKiLdRBL7wkknKo4vC3ta834JoX1m1aWWFiUHXgMHo4%2FXtKFZZR0pYIJsViPXypSGw5y28ej9Ow%3D%3D - success.
+[2021-06-11 01:47:29] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_1.sav' (offset=0, length=16199) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/268910/061_1_1EEC48CA_F33C5_1.dat - success.
+[2021-06-11 01:47:29] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_2.sav' (offset=0, length=16199) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/268910/061_1_1EEC48CA_F33C4_1.dat - success.
+[2021-06-11 01:47:29] [AppID 268910] Upload OK for file Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-06-11 01:47:29] [AppID 268910] Upload OK for file Cuphead/cuphead_player_data_v1_slot_1.sav
+[2021-06-11 01:47:29] [AppID 268910] Upload OK for file Cuphead/cuphead_player_data_v1_slot_2.sav
+[2021-06-11 01:47:29] [AppID 268910] Upload complete, result OK
+
+
+[2021-06-11 10:05:58] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-11 10:05:58] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-11 10:05:58] Starting sync job
+[2021-06-11 10:05:58] [AppID 7] Starting sync (init,)
+[2021-06-11 10:05:58] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-11 10:05:59] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-11 10:05:59] Starting sync job
+[2021-06-11 10:05:59] [AppID 7] Starting sync (init,)
+[2021-06-11 10:06:00] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-11 10:06:00] Starting sync job
+[2021-06-11 10:06:00] [AppID 7] Starting sync (eval,)
+[2021-06-11 10:06:00] [AppID 7] File is in sync sharedconfig.vdf
+[2021-06-11 10:06:00] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-11 10:06:00] Starting sync job
+[2021-06-11 10:06:00] [AppID 7] Starting sync (down,)
+[2021-06-11 10:06:00] [AppID 7] Download complete in build list
+[2021-06-11 10:06:00] [AppID 7] Eval complete
+[2021-06-11 11:59:38] Starting sync job
+[2021-06-11 11:59:38] [AppID 7] Starting sync (down,)
+[2021-06-11 11:59:38] [AppID 7] Download complete in build list
+[2021-06-11 11:59:43] Starting sync job
+[2021-06-11 11:59:43] [AppID 7] Starting sync (down,)
+[2021-06-11 11:59:43] [AppID 7] Download complete in build list
+[2021-06-11 12:47:45] [AppID 760] AutoCloud checking local state for user 149770036
+[2021-06-11 12:47:45] [U:1:149770036] [AppID 760] Init cache request complete
+[2021-06-11 12:47:46] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-06-11 12:47:46] Starting sync job
+[2021-06-11 12:47:46] [AppID 268910] Starting sync (AC Launch,down,)
+[2021-06-11 12:47:46] [AppID 268910] Download complete in build list
+[2021-06-11 12:47:46] [AppID 268910] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-11 12:47:46] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_0.sav
+[2021-06-11 12:47:46] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_1.sav
+[2021-06-11 12:47:46] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_2.sav
+[2021-06-11 12:47:46] [AppID 268910] AutoCloud done. Watching 3 files
+[2021-06-11 13:40:30] [AppID 268910] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-11 13:40:30] [AppID 268910]     Evaluating rule 0 with root="WinAppDataRoaming" path="Cuphead/" pattern="*.sav"
+[2021-06-11 13:40:30] [AppID 268910]         Found 3 files that match C:\Users\Gusta\AppData\Roaming\Cuphead\*.sav
+[2021-06-11 13:40:30] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_2.sav to the cloud
+[2021-06-11 13:40:30] [AppID 268910]	Skipping un-modified file Cuphead/cuphead_player_data_v1_slot_2.sav
+[2021-06-11 13:40:30] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_1.sav to the cloud
+[2021-06-11 13:40:30] [AppID 268910]	Skipping un-modified file Cuphead/cuphead_player_data_v1_slot_1.sav
+[2021-06-11 13:40:30] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_0.sav to the cloud
+[2021-06-11 13:40:30] [AppID 268910] AutoCloud complete
+[2021-06-11 13:40:30] Starting sync job
+[2021-06-11 13:40:30] [AppID 268910] Starting sync (up,AC Exit,)
+[2021-06-11 13:40:30] [AppID 268910] Need to upload file Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-06-11 13:40:30] [AppID 268910] Upload batch initiated, ID: 5033041219314699463, ChangeNumber: 10692501838867212214
+[2021-06-11 13:40:30] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_0.sav' beginning . . .
+[2021-06-11 13:40:31] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_0.sav' (offset=0, length=2430) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/268910/061_1_1EEC48CA_F33C6_2.dat - success.
+[2021-06-11 13:40:31] [AppID 268910] Upload OK for file Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-06-11 13:40:31] [AppID 268910] Upload complete, result OK
+[2021-06-11 17:03:08] Starting sync job
+[2021-06-11 17:03:08] [AppID 7] Starting sync (down,)
+[2021-06-11 17:03:08] [AppID 7] Download complete in build list
+[2021-06-11 17:04:52] Starting sync job
+[2021-06-11 17:04:52] [AppID 7] Starting sync (down,)
+[2021-06-11 17:04:52] [AppID 7] Download complete in build list
+[2021-06-11 17:51:47] Starting sync job
+[2021-06-11 17:51:47] [AppID 7] Starting sync (down,)
+[2021-06-11 17:51:47] [AppID 7] Download complete in build list
+[2021-06-11 17:51:50] Starting sync job
+[2021-06-11 17:51:50] [AppID 7] Starting sync (down,)
+[2021-06-11 17:51:50] [AppID 7] Download complete in build list
+[2021-06-11 18:52:09] Starting sync job
+[2021-06-11 18:52:09] [AppID 7] Starting sync (down,)
+[2021-06-11 18:52:09] [AppID 7] Download complete in build list
+[2021-06-11 19:39:06] Starting sync job
+[2021-06-11 19:39:06] [AppID 7] Download complete in build list
+[2021-06-11 19:39:06] [AppID 7] Starting sync (down,)
+[2021-06-11 20:26:05] Starting sync job
+[2021-06-11 20:26:05] [AppID 7] Starting sync (down,)
+[2021-06-11 20:26:05] [AppID 7] Download complete in build list
+
+
+[2021-06-12 09:39:22] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-12 09:39:22] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-12 09:39:22] Starting sync job
+[2021-06-12 09:39:22] [AppID 7] Starting sync (init,)
+[2021-06-12 09:39:22] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-12 09:39:22] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-12 09:39:22] Starting sync job
+[2021-06-12 09:39:22] [AppID 7] Starting sync (init,)
+[2021-06-12 09:39:24] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-12 09:39:24] Starting sync job
+[2021-06-12 09:39:24] [AppID 7] Starting sync (eval,)
+[2021-06-12 09:39:24] [AppID 7] File is in sync sharedconfig.vdf
+[2021-06-12 09:39:24] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-12 09:39:24] [AppID 7] Eval complete
+[2021-06-12 09:39:24] Starting sync job
+[2021-06-12 09:39:24] [AppID 7] Starting sync (down,)
+[2021-06-12 09:39:24] [AppID 7] Download complete in build list
+[2021-06-12 09:39:54] Starting sync job
+[2021-06-12 09:39:54] [AppID 7] Starting sync (up,)
+[2021-06-12 09:39:54] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-06-12 09:39:54] [AppID 7] Upload batch initiated, ID: 2397503842982942853, ChangeNumber: 11195834647020485536
+[2021-06-12 09:39:55] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-06-12 09:39:55] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/7/02E_0_178A86F5_D1F63_243.dat - success.
+[2021-06-12 09:39:56] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-06-12 09:39:56] [AppID 7] Upload complete, result OK
+[2021-06-12 13:45:00] Starting sync job
+[2021-06-12 13:45:00] [AppID 7] Starting sync (down,)
+[2021-06-12 13:45:00] [AppID 7] Download complete in build list
+[2021-06-12 14:30:47] Starting sync job
+[2021-06-12 14:30:47] [AppID 7] Starting sync (down,)
+[2021-06-12 14:30:47] [AppID 7] Download complete in build list
+[2021-06-12 15:16:52] Starting sync job
+[2021-06-12 15:16:52] [AppID 7] Starting sync (down,)
+[2021-06-12 15:16:52] [AppID 7] Download complete in build list
+[2021-06-12 16:03:13] Starting sync job
+[2021-06-12 16:03:13] [AppID 7] Download complete in build list
+[2021-06-12 16:03:13] [AppID 7] Starting sync (down,)
+[2021-06-12 16:48:54] Starting sync job
+[2021-06-12 16:48:54] [AppID 7] Download complete in build list
+[2021-06-12 16:48:54] [AppID 7] Starting sync (down,)
+[2021-06-12 17:34:53] Starting sync job
+[2021-06-12 17:34:53] [AppID 7] Download complete in build list
+[2021-06-12 17:34:53] [AppID 7] Starting sync (down,)
+[2021-06-12 18:21:09] Starting sync job
+[2021-06-12 18:21:09] [AppID 7] Starting sync (down,)
+[2021-06-12 18:21:09] [AppID 7] Download complete in build list
+[2021-06-12 18:57:29] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-06-12 18:57:29] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-12 18:57:29] [U:1:149770036] [AppID 297130] Init cache request complete
+[2021-06-12 18:57:29] Starting sync job
+[2021-06-12 18:57:29] [AppID 297130] Starting sync (init,)
+[2021-06-12 18:57:29] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-06-12 18:57:29] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-12 18:57:29] Starting sync job
+[2021-06-12 18:57:29] [AppID 297130] Starting sync (eval,)
+[2021-06-12 18:57:29] [AppID 297130] Eval complete
+
+
+[2021-06-13 00:55:27] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 00:55:27] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-13 00:55:27] Starting sync job
+[2021-06-13 00:55:27] [AppID 7] Starting sync (init,)
+[2021-06-13 00:55:27] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 00:55:27] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-13 00:55:27] Starting sync job
+[2021-06-13 00:55:27] [AppID 7] Starting sync (init,)
+[2021-06-13 00:55:28] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 00:55:28] Starting sync job
+[2021-06-13 00:55:28] [AppID 7] Starting sync (eval,)
+[2021-06-13 00:55:29] [AppID 7] File is in sync sharedconfig.vdf
+[2021-06-13 00:55:29] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-13 00:55:29] [AppID 7] Eval complete
+[2021-06-13 00:55:29] Starting sync job
+[2021-06-13 00:55:29] [AppID 7] Starting sync (down,)
+[2021-06-13 00:55:29] [AppID 7] Download complete in build list
+[2021-06-13 00:55:36] [AppID 760] AutoCloud checking local state for user 149770036
+[2021-06-13 00:55:36] [U:1:149770036] [AppID 760] Init cache request complete
+[2021-06-13 00:55:36] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-06-13 00:55:36] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 00:55:36] Starting sync job
+[2021-06-13 00:55:36] [AppID 297130] Starting sync (AC Launch,down,)
+[2021-06-13 00:55:36] [AppID 297130] Download complete in build list
+[2021-06-13 00:55:36] [AppID 297130] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-13 00:55:36] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 00:55:36] [AppID 297130] AutoCloud done. Watching 0 files
+[2021-06-13 01:42:19] [AppID 297130] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-13 01:42:19] [AppID 297130]     Evaluating rule 0 with root="GameInstall" path="data/SAVE/" pattern="*.txt"
+[2021-06-13 01:42:19] [AppID 297130]         Found 1 files that match D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\*.txt
+[2021-06-13 01:42:19] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 01:42:19] [AppID 297130]     Persisting file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt to the cloud
+[2021-06-13 01:42:19] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 01:42:19] [AppID 297130] AutoCloud complete
+[2021-06-13 01:42:19] Starting sync job
+[2021-06-13 01:42:19] [AppID 297130] Starting sync (up,AC Exit,)
+[2021-06-13 01:42:19] [AppID 297130] Need to upload file data/SAVE/0.txt
+[2021-06-13 01:42:20] [AppID 297130] Upload batch initiated, ID: 4086220498185715455, ChangeNumber: 10290922388331367570
+[2021-06-13 01:42:20] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' beginning . . .
+[2021-06-13 01:42:20] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' (offset=0, length=798) to (2800:3f0:4001:819::2010 / 2800:3f0:4001:819::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/297130/061_1_1EED637A_DCD25_1.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623562939&Signature=M34%2BsxCioTQsYwDgK%2B2GPBycy33bfK%2FZi7q3i7R8opmvl%2FnJGP8bTEJkgVMYPj9XuE05Imbw5wSkGN08fZtVSvqmVdnnPRWm2NO%2BKE9C%2B6GRpnwCVOfPYi2F9FHXSgKSCoABGyKbnSoUJ4juguU2KYgQkpVyQHuCWRRKi4R9TH6XwTYjKDMOE%2FWoI9Llj46zOU5L8ZB64MaN3C3uliwPVs3tRYm0kQ9We4nuXUGc00eCeiT7w0p4zmAw6b9tFxxGixOSXOc3zUlwTXy1BBOYwF6nZzJJyj7EVU9HmYAeq3kmRgpGzOnL2jvnS69kXCast4X2k8%2FizkDe395e3dfxaQ%3D%3D - success.
+[2021-06-13 01:42:21] [AppID 297130] Upload OK for file data/SAVE/0.txt
+[2021-06-13 01:42:21] [AppID 297130] Upload complete, result OK
+
+
+[2021-06-13 12:05:02] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 12:05:02] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-13 12:05:02] Starting sync job
+[2021-06-13 12:05:02] [AppID 7] Starting sync (init,)
+[2021-06-13 12:05:03] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 12:05:03] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-13 12:05:03] Starting sync job
+[2021-06-13 12:05:03] [AppID 7] Starting sync (init,)
+[2021-06-13 12:05:05] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 12:05:05] Starting sync job
+[2021-06-13 12:05:05] [AppID 7] Starting sync (eval,)
+[2021-06-13 12:05:05] [AppID 7] File is in sync sharedconfig.vdf
+[2021-06-13 12:05:05] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-13 12:05:05] [AppID 7] Eval complete
+[2021-06-13 12:05:05] Starting sync job
+[2021-06-13 12:05:05] [AppID 7] Starting sync (down,)
+[2021-06-13 12:05:05] [AppID 7] Download complete in build list
+[2021-06-13 12:05:35] Starting sync job
+[2021-06-13 12:05:35] [AppID 7] Starting sync (up,)
+[2021-06-13 12:05:35] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-06-13 12:05:35] [AppID 7] Upload batch initiated, ID: 1449592527578225172, ChangeNumber: 17152231626985235974
+[2021-06-13 12:05:36] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-06-13 12:05:38] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/7/02E_0_178A86F5_D1F63_244.dat - success.
+[2021-06-13 12:05:39] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-06-13 12:05:39] [AppID 7] Upload complete, result OK
+
+
+[2021-06-13 12:21:53] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 12:21:53] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-13 12:21:53] Starting sync job
+[2021-06-13 12:21:53] [AppID 7] Starting sync (init,)
+[2021-06-13 12:21:53] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 12:21:53] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-13 12:21:53] Starting sync job
+[2021-06-13 12:21:53] [AppID 7] Starting sync (init,)
+[2021-06-13 12:21:55] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-13 12:21:55] Starting sync job
+[2021-06-13 12:21:55] [AppID 7] Starting sync (eval,)
+[2021-06-13 12:21:55] [AppID 7] Need to upload file sharedconfig.vdf
+[2021-06-13 12:21:55] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-13 12:21:55] [AppID 7] Eval complete
+[2021-06-13 12:21:55] Starting sync job
+[2021-06-13 12:21:55] [AppID 7] Starting sync (down,)
+[2021-06-13 12:21:55] [AppID 7] Need to upload file sharedconfig.vdf
+[2021-06-13 12:21:55] [AppID 7] Download complete in build list
+[2021-06-13 12:22:06] [AppID 760] AutoCloud checking local state for user 149770036
+[2021-06-13 12:22:06] [U:1:149770036] [AppID 760] Init cache request complete
+[2021-06-13 12:22:06] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-06-13 12:22:06] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 12:22:06] Starting sync job
+[2021-06-13 12:22:06] [AppID 297130] Starting sync (AC Launch,down,)
+[2021-06-13 12:22:06] [AppID 297130] Download complete in build list
+[2021-06-13 12:22:06] [AppID 297130] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-13 12:22:06] [AppID 297130]     Watching file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt
+[2021-06-13 12:22:06] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 12:22:06] [AppID 297130] AutoCloud done. Watching 1 files
+[2021-06-13 12:22:25] Starting sync job
+[2021-06-13 12:22:25] [AppID 7] Starting sync (up,)
+[2021-06-13 12:22:25] [AppID 7] Need to upload file sharedconfig.vdf
+[2021-06-13 12:22:26] [AppID 7] Upload batch initiated, ID: 262451498271589769, ChangeNumber: 10093704250472845667
+[2021-06-13 12:22:26] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2021-06-13 12:22:26] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=301) to (2800:3f0:4001:819::2010 / 2800:3f0:4001:819::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/7/02F_1_1090B0A5_CD8E5_64.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623601347&Signature=gB%2FyHj39gkRPoIVSOWibPirlwJPLE2pIUb0hDh2SyDNzCkQd8serBC%2FKVKzIB%2BgA1vsxq%2BTctaDe9qVgVz54rjrJaHRUlMXZVSLM88UxRzpK3j22fz7CLaJMOYoybdOs%2F84gJgwyw7gdUfUvmp4MCIxuUxgqyuCtuiqE8dskH2Cn2ZpZ0SStEEikS%2BhxNPqz2gF2Up%2BZmKt%2BxPiBIbmmV2MLNBmgKjxtwytv5oas5uV4j0zMtQ9qF3f%2FpJZZDcw7cXQw35JijJUPSFf1OEwIG6%2F%2BdjdrxhKWmLtJPnUqXEx4Pu6SToR4QtdzLwNOMWEt8nC2JbkCeXq07MIcLHSuTg%3D%3D - success.
+[2021-06-13 12:22:27] [AppID 7] Upload OK for file sharedconfig.vdf
+[2021-06-13 12:22:27] [AppID 7] Upload complete, result OK
+[2021-06-13 12:56:17] [AppID 297130] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-13 12:56:17] [AppID 297130]     Evaluating rule 0 with root="GameInstall" path="data/SAVE/" pattern="*.txt"
+[2021-06-13 12:56:17] [AppID 297130]         Found 1 files that match D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\*.txt
+[2021-06-13 12:56:17] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 12:56:17] [AppID 297130]     Persisting file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt to the cloud
+[2021-06-13 12:56:17] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 12:56:17] [AppID 297130] AutoCloud complete
+[2021-06-13 12:56:17] Starting sync job
+[2021-06-13 12:56:17] [AppID 297130] Starting sync (up,AC Exit,)
+[2021-06-13 12:56:17] [AppID 297130] Need to upload file data/SAVE/0.txt
+[2021-06-13 12:56:18] [AppID 297130] Upload batch initiated, ID: 4935142998813866889, ChangeNumber: 11704775425873505378
+[2021-06-13 12:56:18] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' beginning . . .
+[2021-06-13 12:56:18] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' (offset=0, length=1614) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/297130/061_1_1EED637A_DCD25_2.dat - success.
+[2021-06-13 12:56:19] [AppID 297130] Upload OK for file data/SAVE/0.txt
+[2021-06-13 12:56:19] [AppID 297130] Upload complete, result OK
+[2021-06-13 15:24:09] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-06-13 15:24:09] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 15:24:09] Starting sync job
+[2021-06-13 15:24:09] [AppID 297130] Starting sync (AC Launch,down,)
+[2021-06-13 15:24:09] [AppID 297130] Download complete in build list
+[2021-06-13 15:24:09] [AppID 297130] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-13 15:24:09] [AppID 297130]     Watching file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt
+[2021-06-13 15:24:09] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 15:24:09] [AppID 297130] AutoCloud done. Watching 1 files
+[2021-06-13 15:56:18] [AppID 297130] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-13 15:56:18] [AppID 297130]     Evaluating rule 0 with root="GameInstall" path="data/SAVE/" pattern="*.txt"
+[2021-06-13 15:56:18] [AppID 297130]         Found 1 files that match D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\*.txt
+[2021-06-13 15:56:18] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 15:56:18] [AppID 297130]     Persisting file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt to the cloud
+[2021-06-13 15:56:18] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 15:56:18] [AppID 297130] AutoCloud complete
+[2021-06-13 15:56:18] Starting sync job
+[2021-06-13 15:56:18] [AppID 297130] Starting sync (up,AC Exit,)
+[2021-06-13 15:56:18] [AppID 297130] Need to upload file data/SAVE/0.txt
+[2021-06-13 15:56:18] [AppID 297130] Upload batch initiated, ID: 6663558688641764280, ChangeNumber: 16273038166480540863
+[2021-06-13 15:56:19] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' beginning . . .
+[2021-06-13 15:56:19] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' (offset=0, length=2238) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/297130/061_1_1EED637A_DCD25_3.dat - success.
+[2021-06-13 15:56:19] [AppID 297130] Upload OK for file data/SAVE/0.txt
+[2021-06-13 15:56:19] [AppID 297130] Upload complete, result OK
+[2021-06-13 17:28:17] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-06-13 17:28:17] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 17:28:17] Starting sync job
+[2021-06-13 17:28:17] [AppID 297130] Starting sync (AC Launch,down,)
+[2021-06-13 17:28:17] [AppID 297130] Download complete in build list
+[2021-06-13 17:28:17] [AppID 297130] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-13 17:28:17] [AppID 297130]     Watching file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt
+[2021-06-13 17:28:17] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 17:28:17] [AppID 297130] AutoCloud done. Watching 1 files
+[2021-06-13 18:51:40] [AppID 297130] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-13 18:51:40] [AppID 297130]     Evaluating rule 0 with root="GameInstall" path="data/SAVE/" pattern="*.txt"
+[2021-06-13 18:51:40] [AppID 297130]         Found 1 files that match D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\*.txt
+[2021-06-13 18:51:40] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 18:51:40] [AppID 297130]     Persisting file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt to the cloud
+[2021-06-13 18:51:40] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-13 18:51:40] [AppID 297130] AutoCloud complete
+[2021-06-13 18:51:40] Starting sync job
+[2021-06-13 18:51:40] [AppID 297130] Starting sync (up,AC Exit,)
+[2021-06-13 18:51:40] [AppID 297130] Need to upload file data/SAVE/0.txt
+[2021-06-13 18:51:40] [AppID 297130] Upload batch initiated, ID: 2530421008059374500, ChangeNumber: 14900435675288999120
+[2021-06-13 18:51:40] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' beginning . . .
+[2021-06-13 18:51:41] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' (offset=0, length=2993) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/297130/061_1_1EED637A_DCD25_4.dat - success.
+[2021-06-13 18:51:41] [AppID 297130] Upload OK for file data/SAVE/0.txt
+[2021-06-13 18:51:41] [AppID 297130] Upload complete, result OK
+[2021-06-13 19:14:25] [AppID 238320] AutoCloud checking local state for user 149770036
+[2021-06-13 19:14:25] [U:1:149770036] [AppID 238320] Init cache request complete
+[2021-06-13 19:14:25] Starting sync job
+[2021-06-13 19:14:25] [AppID 238320] Starting sync (init,)
+[2021-06-13 19:14:25] [AppID 238320] AutoCloud checking local state for user 149770036
+[2021-06-13 19:14:25] Starting sync job
+[2021-06-13 19:14:25] [AppID 238320] Starting sync (eval,)
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_19-52-22.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_19-58-43.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_19-59-25.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-15-48.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-17-22.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-19-45.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-20-40.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-22-28.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-23-27.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-28-2.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_14-40-32.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_14-43-2.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_14-47-57.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_14-50-26.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_15-5-38.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_15-9-34.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_22-54-3.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_23-4-38.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_12-56-0.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_12-59-48.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-27-16.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-28-0.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-28-19.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-29-33.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-5-37.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_21-57-58.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-0-42.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-11-50.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-15-34.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-21-20.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-22-15.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-22-59.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-3-33.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-5-45.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-8-22.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-9_1-13-24.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-7-10_23-18-2.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-7-10_23-21-9.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-7-10_23-22-38.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2020-6-21_22-43-34.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2020-6-21_22-45-18.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file profile.bin
+[2021-06-13 19:14:25] [AppID 238320] Eval complete
+[2021-06-13 19:14:25] Starting sync job
+[2021-06-13 19:14:25] [AppID 238320] Starting sync (down,)
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_19-52-22.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_19-58-43.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_19-59-25.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-15-48.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-17-22.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-19-45.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-20-40.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-22-28.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-23-27.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-13_20-28-2.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_14-40-32.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_14-43-2.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_14-47-57.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_14-50-26.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_15-5-38.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_15-9-34.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_22-54-3.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-1_23-4-38.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_12-56-0.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_12-59-48.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-27-16.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-28-0.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-28-19.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-29-33.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-4-3_13-5-37.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_21-57-58.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-0-42.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-11-50.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-15-34.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-21-20.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-22-15.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-22-59.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-3-33.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-5-45.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-10_22-8-22.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-6-9_1-13-24.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-7-10_23-18-2.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-7-10_23-21-9.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2018-7-10_23-22-38.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2020-6-21_22-43-34.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file OL_2020-6-21_22-45-18.sav
+[2021-06-13 19:14:25] [AppID 238320] Need to download file profile.bin
+[2021-06-13 19:14:25] [AppID 238320] HTTP download for file 'OL_2018-4-1_14-40-32.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:25] [AppID 238320] HTTP download for file 'OL_2018-4-1_14-43-2.sav' from host 'steamcloud-br.s3.dualstack.sa-east-1.amazonaws.com' beginning. . .
+[2021-06-13 19:14:25] [AppID 238320] HTTP download for file 'OL_2018-4-1_14-47-57.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:25] [AppID 238320] HTTP download for file 'OL_2018-4-1_14-50-26.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:25] [AppID 238320] HTTP download for file 'OL_2018-4-1_15-5-38.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:25] [AppID 238320] HTTP download for file 'OL_2018-4-1_15-9-34.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:25] [AppID 238320] HTTP download for file 'OL_2018-4-1_22-54-3.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:25] [AppID 238320] HTTP download for file 'OL_2018-4-1_23-4-38.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:26] [AppID 238320] HTTP download for file 'profile.bin' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:26] [AppID 238320] HTTP download for file 'OL_2018-4-3_12-56-0.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-1_14-40-32.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-1_14-40-32.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-1_15-9-34.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-1_22-54-3.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-1_23-4-38.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-1_15-9-34.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-1_22-54-3.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-1_23-4-38.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-1_14-43-2.sav' from host 'steamcloud-br.s3.dualstack.sa-east-1.amazonaws.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-1_14-50-26.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-1_15-5-38.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_12-56-0.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'profile.bin' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-1_14-43-2.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-1_14-50-26.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-1_15-5-38.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-3_12-56-0.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file profile.bin
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-1_14-47-57.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-1_14-47-57.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_12-59-48.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-5-37.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-28-19.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-28-19.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-5-37.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-3_13-5-37.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-3_13-28-19.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_12-59-48.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-3_12-59-48.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-27-16.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-28-0.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-29-33.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_19-52-22.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_19-58-43.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_19-59-25.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-22-28.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-28-0.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-3_13-28-0.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-27-16.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-22-28.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_19-58-43.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-3_13-27-16.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-13_20-22-28.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-13_19-58-43.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-3_13-29-33.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-3_13-29-33.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_19-59-25.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_19-52-22.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-13_19-59-25.sav
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-13_19-52-22.sav
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-15-48.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-19-45.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-17-22.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-19-45.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-17-22.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-15-48.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:27] [AppID 238320] Download OK for file OL_2018-4-13_20-19-45.sav
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-4-13_20-17-22.sav
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-4-13_20-15-48.sav
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-23-27.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-23-27.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-4-13_20-23-27.sav
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-28-2.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-9_1-13-24.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_21-57-58.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-0-42.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-20-40.sav' from host 'steamcloud-br.s3.dualstack.sa-east-1.amazonaws.com' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-5-45.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-3-33.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-3-33.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-0-42.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_21-57-58.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-20-40.sav' from host 'steamcloud-br.s3.dualstack.sa-east-1.amazonaws.com' - Success.
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-9_1-13-24.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-4-13_20-28-2.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-6-10_22-3-33.sav
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-6-10_22-0-42.sav
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-6-10_21-57-58.sav
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-4-13_20-28-2.sav
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-6-9_1-13-24.sav
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-4-13_20-20-40.sav
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-5-45.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-6-10_22-5-45.sav
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-8-22.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-8-22.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:28] [AppID 238320] Download OK for file OL_2018-6-10_22-8-22.sav
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-11-50.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:28] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-15-34.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-21-20.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-22-15.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-22-59.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-7-10_23-21-9.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-7-10_23-22-38.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-7-10_23-18-2.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-15-34.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2018-6-10_22-15-34.sav
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2020-6-21_22-43-34.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-11-50.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2018-6-10_22-11-50.sav
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-22-59.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2018-6-10_22-22-59.sav
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-7-10_23-21-9.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2018-7-10_23-21-9.sav
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-7-10_23-22-38.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2018-7-10_23-22-38.sav
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-22-15.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2018-6-10_22-22-15.sav
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2020-6-21_22-45-18.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-7-10_23-18-2.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2020-6-21_22-43-34.sav' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2018-7-10_23-18-2.sav
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2020-6-21_22-43-34.sav
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2018-6-10_22-21-20.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2018-6-10_22-21-20.sav
+[2021-06-13 19:14:29] [AppID 238320] HTTP download for file 'OL_2020-6-21_22-45-18.sav' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-13 19:14:29] [AppID 238320] Download OK for file OL_2020-6-21_22-45-18.sav
+[2021-06-13 19:14:29] [AppID 238320] Download complete, result OK
+
+
+[2021-06-14 20:12:28] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-14 20:12:28] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-14 20:12:28] Starting sync job
+[2021-06-14 20:12:28] [AppID 7] Starting sync (init,)
+[2021-06-14 20:12:28] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-14 20:12:28] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-14 20:12:28] Starting sync job
+[2021-06-14 20:12:28] [AppID 7] Starting sync (init,)
+[2021-06-14 20:12:30] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-14 20:12:30] Starting sync job
+[2021-06-14 20:12:30] [AppID 7] Starting sync (eval,)
+[2021-06-14 20:12:30] [AppID 7] File is in sync sharedconfig.vdf
+[2021-06-14 20:12:30] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-14 20:12:30] [AppID 7] Eval complete
+[2021-06-14 20:12:31] Starting sync job
+[2021-06-14 20:12:31] [AppID 7] Starting sync (down,)
+[2021-06-14 20:12:31] [AppID 7] Download complete in build list
+[2021-06-14 20:12:39] [AppID 760] AutoCloud checking local state for user 149770036
+[2021-06-14 20:12:39] [U:1:149770036] [AppID 760] Init cache request complete
+[2021-06-14 20:12:39] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-06-14 20:12:39] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-14 20:12:39] Starting sync job
+[2021-06-14 20:12:39] [AppID 297130] Starting sync (AC Launch,down,)
+[2021-06-14 20:12:39] [AppID 297130] Download complete in build list
+[2021-06-14 20:12:39] [AppID 297130] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-14 20:12:39] [AppID 297130]     Watching file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt
+[2021-06-14 20:12:39] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-14 20:12:39] [AppID 297130] AutoCloud done. Watching 1 files
+[2021-06-14 20:13:01] Starting sync job
+[2021-06-14 20:13:01] [AppID 7] Starting sync (up,)
+[2021-06-14 20:13:01] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-06-14 20:13:01] [AppID 7] Upload batch initiated, ID: 4333866523868922262, ChangeNumber: 10789356459727286601
+[2021-06-14 20:13:01] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-06-14 20:13:02] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (2800:3f0:4004:80e::2010 / 2800:3f0:4004:80e::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/7/02E_0_178A86F5_D1F63_245.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623715981&Signature=H0BldsyU4RFHBOqtmuJMtk8bRHxkfBB3dmoiPTPE%2B8iKdPnoHGoctSl90FEyA3LuAoJ3MIyoMJwCEweQ7K7eXfAWddaTARj7nxmVIX7WgqlVlv9ZjrK%2FCZg8fJiukWca%2FNhjEXAo4Cei%2BhCz52MkryDFgrQeSDdf6ET3EKdl6biFf1uXPKj4lZ6yM%2BWyfCzX8fkedKVrGoii5f0pCq5mplZA4alc43doJ5hJW3pwa3uqakqDuDbVmNWDZKF549EevJUI1VzbrMpCZWWjJmHdLSpNq6BalAZwIyJTaNwhtbIh0vRGjxfEiTNjsjUu2pEhCXMPFx0Z0p2rrv62sulTrg%3D%3D - success.
+[2021-06-14 20:13:02] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-06-14 20:13:02] [AppID 7] Upload complete, result OK
+[2021-06-14 21:00:47] [AppID 297130] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-14 21:00:47] [AppID 297130]     Evaluating rule 0 with root="GameInstall" path="data/SAVE/" pattern="*.txt"
+[2021-06-14 21:00:47] [AppID 297130]         Found 2 files that match D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\*.txt
+[2021-06-14 21:00:47] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-14 21:00:47] [AppID 297130]     Persisting file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt to the cloud
+[2021-06-14 21:00:47] [AppID 297130]     Persisting file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\1.txt to the cloud
+[2021-06-14 21:00:47] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-06-14 21:00:47] [AppID 297130] AutoCloud complete
+[2021-06-14 21:00:47] Starting sync job
+[2021-06-14 21:00:47] [AppID 297130] Starting sync (up,AC Exit,)
+[2021-06-14 21:00:47] [AppID 297130] Need to upload file data/SAVE/0.txt
+[2021-06-14 21:00:47] [AppID 297130] Need to upload file data/SAVE/1.txt
+[2021-06-14 21:00:48] [AppID 297130] Upload batch initiated, ID: 4536757389769799311, ChangeNumber: 13098925042163573413
+[2021-06-14 21:00:48] [AppID 297130] HTTP upload for file 'data/SAVE/1.txt' beginning . . .
+[2021-06-14 21:00:48] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' beginning . . .
+[2021-06-14 21:00:48] [AppID 297130] HTTP upload for file 'data/SAVE/1.txt' (offset=0, length=916) to (2800:3f0:4004:80e::2010 / 2800:3f0:4004:80e::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/297130/061_1_1EEFD38F_B08E6_1.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623718847&Signature=Yxh8OFu68wf9Xmmn0XwfM%2FXzF3E0xM4x9Au%2FpRR6k%2FLGre7FkUFsHmGPA5%2BtDnsNIZX9okAwQG5o4CfT148pHw0zjl3y%2F444Y5Q7wdirV2IdsEz6Lq7zwhLyO8u%2FCJ2zYCmuA8KAycBjfLn8%2BnLxVVLMbwSMnSCF%2BoIic3%2FFzItDQt3yqzoTg4ZMO2%2Fe210ymK0ov5PSVEkdvYeTjQBeHules2byp8Bt3vUziz3m49HDfcpdo3ZKPVIr%2BhDAnBTbFIoudYx%2Bi53zHMTz8T9Yhm%2FmD5THIt1j4OzLa9%2BHAtlx3LgxL8n6wT1meY5nF33V2fECIkiI%2BClpTLwXRV804A%3D%3D - success.
+[2021-06-14 21:00:48] [AppID 297130] HTTP upload for file 'data/SAVE/0.txt' (offset=0, length=3558) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/297130/061_1_1EED637A_DCD25_5.dat - success.
+[2021-06-14 21:00:48] [AppID 297130] Upload OK for file data/SAVE/1.txt
+[2021-06-14 21:00:49] [AppID 297130] Upload OK for file data/SAVE/0.txt
+[2021-06-14 21:00:49] [AppID 297130] Upload complete, result OK
+[2021-06-14 22:13:10] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-06-14 22:13:10] [U:1:149770036] [AppID 268910] Init cache request complete
+[2021-06-14 22:13:10] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-06-14 22:13:10] Starting sync job
+[2021-06-14 22:13:10] [AppID 268910] Starting sync (AC Launch,down,)
+[2021-06-14 22:13:10] [AppID 268910] Download complete in build list
+[2021-06-14 22:13:10] [AppID 268910] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-14 22:13:10] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_0.sav
+[2021-06-14 22:13:10] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_1.sav
+[2021-06-14 22:13:10] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_2.sav
+[2021-06-14 22:13:10] [AppID 268910] AutoCloud done. Watching 3 files
+[2021-06-14 22:38:06] [AppID 268910] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-14 22:38:06] [AppID 268910]     Evaluating rule 0 with root="WinAppDataRoaming" path="Cuphead/" pattern="*.sav"
+[2021-06-14 22:38:06] [AppID 268910]         Found 3 files that match C:\Users\Gusta\AppData\Roaming\Cuphead\*.sav
+[2021-06-14 22:38:06] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_2.sav to the cloud
+[2021-06-14 22:38:06] [AppID 268910]	Skipping un-modified file Cuphead/cuphead_player_data_v1_slot_2.sav
+[2021-06-14 22:38:06] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_1.sav to the cloud
+[2021-06-14 22:38:06] [AppID 268910]	Skipping un-modified file Cuphead/cuphead_player_data_v1_slot_1.sav
+[2021-06-14 22:38:06] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_0.sav to the cloud
+[2021-06-14 22:38:06] [AppID 268910] AutoCloud complete
+[2021-06-14 22:38:06] Starting sync job
+[2021-06-14 22:38:06] [AppID 268910] Starting sync (up,AC Exit,)
+[2021-06-14 22:38:06] [AppID 268910] Need to upload file Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-06-14 22:38:06] [AppID 268910] Upload batch initiated, ID: 1504187546362121194, ChangeNumber: 12216257813671633835
+[2021-06-14 22:38:07] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_0.sav' beginning . . .
+[2021-06-14 22:38:07] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_0.sav' (offset=0, length=2440) to (2800:3f0:4001:816::2010 / 2800:3f0:4001:816::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/268910/061_1_1EEC48CA_F33C6_3.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623724686&Signature=Oxa1PhbbdT2Is1%2F69P17VYp9cjp1btMSY8RcKVsewbVNXIQUg0D0C4FL%2FqpNoU76ziG4kQVK2fz1HR%2BRqVdzbeM%2F93sRPYhD64beAacMpPjeWrGJ0LzKtDIhHdsh%2F6p1%2FH%2BPZcEJH%2B%2FhZ1RElGftQyz37TxYlqRSIagpQHHLOcHFyKSSESKREQ4B2OX7RWrjfQDwPdZrz92ukWMQ1LK6%2B%2F42Qzvs%2F54hWrc9rYX4jEbH9W%2FgKHKiSnlTxgVjRlgJXWt7Qf%2BgMvU%2Betiou53OtSExC9%2F81OZIkKlpIb%2BqsLysCiJyphSiEMLJfHNSJqa5KyWqCJjYO7ljJVd%2Bqmz2ew%3D%3D - success.
+[2021-06-14 22:38:08] [AppID 268910] Upload OK for file Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-06-14 22:38:08] [AppID 268910] Upload complete, result OK
+
+
+[2021-06-16 13:56:42] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 13:56:42] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-16 13:56:42] Starting sync job
+[2021-06-16 13:56:42] [AppID 7] Starting sync (init,)
+[2021-06-16 13:56:42] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 13:56:42] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-16 13:56:42] Starting sync job
+[2021-06-16 13:56:42] [AppID 7] Starting sync (init,)
+[2021-06-16 13:56:44] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 13:56:44] Starting sync job
+[2021-06-16 13:56:44] [AppID 7] Starting sync (eval,)
+[2021-06-16 13:56:45] [AppID 7] File is in sync sharedconfig.vdf
+[2021-06-16 13:56:45] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-16 13:56:45] [AppID 7] Eval complete
+[2021-06-16 13:56:45] Starting sync job
+[2021-06-16 13:56:45] [AppID 7] Starting sync (down,)
+[2021-06-16 13:56:45] [AppID 7] Download complete in build list
+[2021-06-16 13:57:15] Starting sync job
+[2021-06-16 13:57:15] [AppID 7] Starting sync (up,)
+[2021-06-16 13:57:15] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-06-16 13:57:15] [AppID 7] Upload batch initiated, ID: 4886613754937467058, ChangeNumber: 12068738279363110505
+[2021-06-16 13:57:15] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-06-16 13:57:16] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (191.235.248.36 / 191.235.248.36, host: steamcloudsaopaulo.blob.core.windows.net), path /cloud/34/4F/ED/08/7/02E_0_178A86F5_D1F63_246.dat - success.
+[2021-06-16 13:57:17] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-06-16 13:57:17] [AppID 7] Upload complete, result OK
+[2021-06-16 14:09:47] [AppID 349040] AutoCloud checking local state for user 149770036
+[2021-06-16 14:09:47] [U:1:149770036] [AppID 349040] Init cache request complete
+[2021-06-16 14:09:47] Starting sync job
+[2021-06-16 14:09:47] [AppID 349040] Starting sync (init,)
+[2021-06-16 14:09:47] [AppID 349040] AutoCloud checking local state for user 149770036
+[2021-06-16 14:09:47] Starting sync job
+[2021-06-16 14:09:47] [AppID 349040] Starting sync (eval,)
+[2021-06-16 14:09:47] [AppID 349040] Need to download file CheckBattleCut
+[2021-06-16 14:09:47] [AppID 349040] Need to download file LoginInfo
+[2021-06-16 14:09:47] [AppID 349040] Need to download file STORM4.S
+[2021-06-16 14:09:47] [AppID 349040] Need to download file UserInfo
+[2021-06-16 14:09:47] [AppID 349040] Eval complete
+[2021-06-16 14:09:47] Starting sync job
+[2021-06-16 14:09:47] [AppID 349040] Starting sync (down,)
+[2021-06-16 14:09:47] [AppID 349040] Need to download file CheckBattleCut
+[2021-06-16 14:09:47] [AppID 349040] Need to download file LoginInfo
+[2021-06-16 14:09:47] [AppID 349040] Need to download file STORM4.S
+[2021-06-16 14:09:47] [AppID 349040] Need to download file UserInfo
+[2021-06-16 14:09:47] [AppID 349040] HTTP download for file 'CheckBattleCut' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-16 14:09:47] [AppID 349040] HTTP download for file 'LoginInfo' from host 'steamcloud-saopaulo.storage.googleapis.com' beginning. . .
+[2021-06-16 14:09:47] [AppID 349040] HTTP download for file 'UserInfo' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-16 14:09:47] [AppID 349040] HTTP download for file 'STORM4.S' from host 'steamcloudsaopaulo.blob.core.windows.net' beginning. . .
+[2021-06-16 14:09:47] [AppID 349040] HTTP download for file 'UserInfo' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-16 14:09:47] [AppID 349040] HTTP download for file 'CheckBattleCut' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-16 14:09:47] [AppID 349040] Download OK for file CheckBattleCut
+[2021-06-16 14:09:47] [AppID 349040] Download OK for file UserInfo
+[2021-06-16 14:09:48] [AppID 349040] HTTP download for file 'LoginInfo' from host 'steamcloud-saopaulo.storage.googleapis.com' - Success.
+[2021-06-16 14:09:48] [AppID 349040] Download OK for file LoginInfo
+[2021-06-16 14:09:48] [AppID 349040] HTTP download for file 'STORM4.S' from host 'steamcloudsaopaulo.blob.core.windows.net' - Success.
+[2021-06-16 14:09:48] [AppID 349040] Download OK for file STORM4.S
+[2021-06-16 14:09:48] [AppID 349040] Download complete, result OK
+[2021-06-16 15:36:56] Starting sync job
+[2021-06-16 15:36:56] [AppID 7] Starting sync (down,)
+[2021-06-16 15:36:56] [AppID 7] Download complete in build list
+[2021-06-16 15:56:37] [AppID 760] AutoCloud checking local state for user 149770036
+[2021-06-16 15:56:37] [U:1:149770036] [AppID 760] Init cache request complete
+[2021-06-16 15:56:37] [AppID 349040] AutoCloud checking local state for user 149770036
+[2021-06-16 15:56:37] Starting sync job
+[2021-06-16 15:56:37] [AppID 349040] Starting sync (AC Launch,down,)
+[2021-06-16 15:56:37] [AppID 349040] Download complete in build list
+[2021-06-16 15:56:37] [AppID 349040] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-16 15:56:37] [AppID 349040] AutoCloud done. Watching 0 files
+[2021-06-16 16:09:52] [AppID 349040] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-16 16:09:52] [AppID 349040] AutoCloud complete
+[2021-06-16 16:09:52] Starting sync job
+[2021-06-16 16:09:52] [AppID 349040] Starting sync (up,AC Exit,)
+[2021-06-16 16:09:52] [AppID 349040] Need to upload file STORM4.S
+[2021-06-16 16:09:52] [AppID 349040] Upload batch initiated, ID: 7869297049976839348, ChangeNumber: 12136177834074737637
+[2021-06-16 16:09:53] [AppID 349040] HTTP upload for file 'STORM4.S' beginning . . .
+[2021-06-16 16:09:54] [AppID 349040] HTTP upload for file 'STORM4.S' (offset=0, length=129968) to (2800:3f0:4001:815::2010 / 2800:3f0:4001:815::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/349040/033_3_18ABD2ED_3CD45_14.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623874194&Signature=G8vNO3WwOeKkZcUHmEp9Imgmeqdfb%2F5Hgf6R%2FMzFPQTtu0hB1FXa1rpLKdDqB%2BeCjPUVi9Y%2B8MxJAonIpFCq0zvnus6Rvd4UdqIq2MntsUoKW3TCX0g2niNRPcmrWvVLMEzZUDZIkyqjEcvbkye1WksBVvQ9F4r0LrgYplMqCNTMIO88CxRFB22V6HjJehSsQwLqjzHP38DlkHDKAa9itHUMPlTqHYOcoO3kBt2yGMD0G4enpFOTTDGyH%2BFmLSKzaE%2FuGC2YVb8m4FCsqyxmT5TS1hpyGZ4G%2B%2BxrilvNYSes4s4FSQOkcRSiFB%2B72roZK1DnhDdrd4Kj8Ecb1wgcmQ%3D%3D - success.
+[2021-06-16 16:09:54] [AppID 349040] Upload OK for file STORM4.S
+[2021-06-16 16:09:54] [AppID 349040] Upload complete, result OK
+
+
+[2021-06-16 16:56:50] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 16:56:50] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-16 16:56:50] Starting sync job
+[2021-06-16 16:56:50] [AppID 7] Starting sync (init,)
+[2021-06-16 16:56:51] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 16:56:51] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-16 16:56:51] Starting sync job
+[2021-06-16 16:56:51] [AppID 7] Starting sync (init,)
+[2021-06-16 16:56:52] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 16:56:52] Starting sync job
+[2021-06-16 16:56:52] [AppID 7] Starting sync (eval,)
+[2021-06-16 16:56:53] [AppID 7] File is in sync sharedconfig.vdf
+[2021-06-16 16:56:53] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-16 16:56:53] [AppID 7] Eval complete
+[2021-06-16 16:56:53] Starting sync job
+[2021-06-16 16:56:53] [AppID 7] Starting sync (down,)
+[2021-06-16 16:56:53] [AppID 7] Download complete in build list
+[2021-06-16 16:56:56] [AppID 760] AutoCloud checking local state for user 149770036
+[2021-06-16 16:56:56] [U:1:149770036] [AppID 760] Init cache request complete
+[2021-06-16 16:56:56] [AppID 349040] AutoCloud checking local state for user 149770036
+[2021-06-16 16:56:56] Starting sync job
+[2021-06-16 16:56:56] [AppID 349040] Starting sync (AC Launch,)
+[2021-06-16 16:56:56] [AppID 349040] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-16 16:56:56] [AppID 349040] AutoCloud done. Watching 0 files
+[2021-06-16 16:56:56] Starting sync job
+[2021-06-16 16:56:56] [AppID 349040] Starting sync (down,)
+[2021-06-16 16:56:56] [AppID 349040] Download complete in build list
+[2021-06-16 17:25:58] [AppID 349040] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-16 17:25:58] [AppID 349040] AutoCloud complete
+[2021-06-16 17:25:58] Starting sync job
+[2021-06-16 17:25:58] [AppID 349040] Starting sync (up,AC Exit,)
+[2021-06-16 17:25:58] [AppID 349040] Need to upload file STORM4.S
+[2021-06-16 17:25:58] [AppID 349040] Upload batch initiated, ID: 8874744126060848346, ChangeNumber: 9678676793611827587
+[2021-06-16 17:25:58] [AppID 349040] HTTP upload for file 'STORM4.S' beginning . . .
+[2021-06-16 17:25:59] [AppID 349040] HTTP upload for file 'STORM4.S' (offset=0, length=129968) to (2800:3f0:4001:815::2010 / 2800:3f0:4001:815::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/349040/033_3_18ABD2ED_3CD45_15.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623878760&Signature=hjgQabUpunD%2B62wsdKc%2BN4IanfypO3YpQWb3zPfdm81ERpQ9kCQZa7qnlGEp7aZdRxzSUyoZ9jRJT8iD6Y%2FALucgTu4H116eBBzhrcLHCtcl937%2FLHCBqcxLcUf5wGxqKFgwdPvavvruwfQTKo6sbU4T3OC3P59GaxIArr4953BqXvKTEcW7xpAF7mMVRJZkmgFrrCgz%2Fr7YkOO6q1EVEFX655sVFeMAofrnY2KvhHJaMZP%2BzRyp%2FkSmENse55jyFOH7wwRAsQPtIn9bDius4qwSj3v6kfgs7k4%2FYC4NRZmsLFgiT7Das649fz4ZsJZo8G3rB%2FEclRkwi%2BF%2FAZDwPg%3D%3D - success.
+[2021-06-16 17:25:59] [AppID 349040] Upload OK for file STORM4.S
+[2021-06-16 17:25:59] [AppID 349040] Upload complete, result OK
+[2021-06-16 17:58:19] Starting sync job
+[2021-06-16 17:58:19] [AppID 7] Starting sync (down,)
+[2021-06-16 17:58:19] [AppID 7] Download complete in build list
+
+
+[2021-06-16 23:37:22] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 23:37:22] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-16 23:37:22] Starting sync job
+[2021-06-16 23:37:22] [AppID 7] Starting sync (init,)
+[2021-06-16 23:37:22] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 23:37:22] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-06-16 23:37:22] Starting sync job
+[2021-06-16 23:37:22] [AppID 7] Starting sync (init,)
+[2021-06-16 23:37:23] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-06-16 23:37:23] Starting sync job
+[2021-06-16 23:37:23] [AppID 7] Starting sync (eval,)
+[2021-06-16 23:37:24] [AppID 7] File is in sync sharedconfig.vdf
+[2021-06-16 23:37:24] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-06-16 23:37:24] [AppID 7] Eval complete
+[2021-06-16 23:37:24] Starting sync job
+[2021-06-16 23:37:24] [AppID 7] Starting sync (down,)
+[2021-06-16 23:37:24] [AppID 7] Download complete in build list
+[2021-06-16 23:37:30] [AppID 349040] AutoCloud checking local state for user 149770036
+[2021-06-16 23:37:30] Starting sync job
+[2021-06-16 23:37:30] [AppID 349040] Starting sync (AC Launch,down,)
+[2021-06-16 23:37:30] [AppID 349040] Download complete in build list
+[2021-06-16 23:37:30] [AppID 349040] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-06-16 23:37:30] [AppID 349040] AutoCloud done. Watching 0 files
+[2021-06-17 00:03:27] [AppID 349040] Running AutoCloud on exit. Looking for new and updated files
+[2021-06-17 00:03:27] [AppID 349040] AutoCloud complete
+[2021-06-17 00:03:27] Starting sync job
+[2021-06-17 00:03:27] [AppID 349040] Starting sync (up,AC Exit,)
+[2021-06-17 00:03:27] [AppID 349040] Need to upload file STORM4.S
+[2021-06-17 00:03:27] [AppID 349040] Upload batch initiated, ID: 6782011938535839092, ChangeNumber: 13787403438585232783
+[2021-06-17 00:03:27] [AppID 349040] HTTP upload for file 'STORM4.S' beginning . . .
+[2021-06-17 00:03:28] [AppID 349040] HTTP upload for file 'STORM4.S' (offset=0, length=129968) to (2800:3f0:4001:80f::2010 / 2800:3f0:4001:80f::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/349040/033_3_18ABD2ED_3CD45_16.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1623902607&Signature=DtnPohELiRzbfmTLUrDg9AGdOXfMvlwFgljwuWPk%2F0OhdbVla9qlfaHiB%2FVKcV15VHPzHXNRWPdg5XQJqi6RN7py%2Belymp%2FYUkvIoMBPkNsOvG3M89bpIrqpyyigG1MlwQFzZyx1Tk4jnHr4faVHP%2FaP4zxeUFgwFwrs%2FSWLreCnwVwX5rJFdCvZ4HVWbF5ffXLHAJd7gURZ0tTikz6l4%2FAN26X4%2B1825BySmFGN8CEji0spujQYGDnmRZr0%2ByH6kbZ235R9F64e%2BcrR6djiVRU74V0%2B%2FQCxvKKWwq8OR9abXt4O9%2Fw47OOUKm3eBAHzqsPClj97jVELtg7BPXLu1Q%3D%3D - success.
+[2021-06-17 00:03:28] [AppID 349040] Upload OK for file STORM4.S
+[2021-06-17 00:03:28] [AppID 349040] Upload complete, result OK
+
+
+[2021-07-03 21:25:47] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-03 21:25:47] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-03 21:25:47] Starting sync job
+[2021-07-03 21:25:47] [AppID 7] Starting sync (init,)
+[2021-07-03 21:25:47] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-03 21:25:47] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-03 21:25:47] Starting sync job
+[2021-07-03 21:25:47] [AppID 7] Starting sync (init,)
+[2021-07-03 21:25:51] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-03 21:25:51] Starting sync job
+[2021-07-03 21:25:51] [AppID 7] Starting sync (eval,)
+[2021-07-03 21:25:52] [AppID 7] File is in sync sharedconfig.vdf
+[2021-07-03 21:25:52] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-07-03 21:25:52] [AppID 7] Eval complete
+[2021-07-03 21:25:52] Starting sync job
+[2021-07-03 21:25:52] [AppID 7] Starting sync (down,)
+[2021-07-03 21:25:52] [AppID 7] Download complete in build list
+[2021-07-03 21:26:01] [AppID 760] AutoCloud checking local state for user 149770036
+[2021-07-03 21:26:01] [U:1:149770036] [AppID 760] Init cache request complete
+[2021-07-03 21:26:01] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-07-03 21:26:01] Starting sync job
+[2021-07-03 21:26:01] [AppID 268910] Starting sync (AC Launch,down,)
+[2021-07-03 21:26:01] [AppID 268910] Download complete in build list
+[2021-07-03 21:26:01] [AppID 268910] Running AutoCloud on launch. Looking for existing files to watch:
+[2021-07-03 21:26:01] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_0.sav
+[2021-07-03 21:26:01] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_1.sav
+[2021-07-03 21:26:01] [AppID 268910]     Watching file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_2.sav
+[2021-07-03 21:26:01] [AppID 268910] AutoCloud done. Watching 3 files
+[2021-07-03 21:26:22] Starting sync job
+[2021-07-03 21:26:22] [AppID 7] Starting sync (up,)
+[2021-07-03 21:26:22] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-07-03 21:26:22] [AppID 7] Upload batch initiated, ID: 3384000585551930836, ChangeNumber: 18071234965676503325
+[2021-07-03 21:26:23] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-07-03 21:26:23] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (2800:3f0:4001:808::2010 / 2800:3f0:4001:808::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/7/02E_0_178A86F5_D1F63_247.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1625361982&Signature=QCshAORtpW22KgkY%2FqnF1n3YRmna0%2BlJjG0jACE4RqquwdfL15N7aYMTzk3vy12M%2Fqs8ZBM6cwU7iiJ9V%2Bw76gOtsVgt32zX4J717u%2FLZV5o0%2FwTD1a41hNGW3AT7Xdje8C99Zy8I7DMBeP%2B%2BxebO98S6tYK8jV8tAGR5i8vSH1dejcYUTB%2BUv5hlw31fTUhth9v0sp3z8x%2B4CuUTLBrv4fE5OybP0X9gnY5LFtojbzzi6xTF9UqTwDTkL2Ajj3Ot1lKKXBhQyfQ%2F3ad5QYzGgam1CjNcAiStypQwzCDVHBDbG0SzV%2FUO8Q6WjsplRwtf5ZoMVftxRJP33UjR5leqg%3D%3D - success.
+[2021-07-03 21:26:24] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-07-03 21:26:24] [AppID 7] Upload complete, result OK
+[2021-07-03 22:12:18] [AppID 268910] Running AutoCloud on exit. Looking for new and updated files
+[2021-07-03 22:12:18] [AppID 268910]     Evaluating rule 0 with root="WinAppDataRoaming" path="Cuphead/" pattern="*.sav"
+[2021-07-03 22:12:18] [AppID 268910]         Found 3 files that match C:\Users\Gusta\AppData\Roaming\Cuphead\*.sav
+[2021-07-03 22:12:18] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_2.sav to the cloud
+[2021-07-03 22:12:18] [AppID 268910]	Skipping un-modified file Cuphead/cuphead_player_data_v1_slot_2.sav
+[2021-07-03 22:12:18] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_1.sav to the cloud
+[2021-07-03 22:12:18] [AppID 268910]	Skipping un-modified file Cuphead/cuphead_player_data_v1_slot_1.sav
+[2021-07-03 22:12:18] [AppID 268910]     Persisting file C:\Users\Gusta\AppData\Roaming\Cuphead\cuphead_player_data_v1_slot_0.sav to the cloud
+[2021-07-03 22:12:18] [AppID 268910] AutoCloud complete
+[2021-07-03 22:12:18] Starting sync job
+[2021-07-03 22:12:18] [AppID 268910] Starting sync (up,AC Exit,)
+[2021-07-03 22:12:18] [AppID 268910] Need to upload file Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-07-03 22:12:19] [AppID 268910] Upload batch initiated, ID: 8911793126912001444, ChangeNumber: 17621981708791345701
+[2021-07-03 22:12:19] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_0.sav' beginning . . .
+[2021-07-03 22:12:20] [AppID 268910] HTTP upload for file 'Cuphead/cuphead_player_data_v1_slot_0.sav' (offset=0, length=2653) to (2800:3f0:4001:811::2010 / 2800:3f0:4001:811::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/268910/061_1_1EEC48CA_F33C6_4.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1625364739&Signature=WJP97%2FRbdt%2FpPKRs0bLd02EwXz4l0wYZY8BSS0D9%2BHXHD%2F4G%2FvFq1yEMhxD37UXR%2FhtHS8SkwU5e78MkhT%2BXs31chSQY3zykWvXOs8Ystd7IRAb5T1HUXt%2BawiF8tpYHFReHvQQ6NBgyCB0g7RwDBJXJ2tCT7u1v8O0nXi0a2OyxBuDDsMJBvoBsmqBMlslXJpHg6feIaWx%2FOrfYM9I5BYXHXPdT9BCRcCVnqXhIq%2BgVQ7%2FmRYXJ7itIgArn0s87IbBbIxTxRc0RjhDmrkAK7vHW8U1Gpuq06eB4dFkZ8mb06fimj%2F9Pqm5Hls3%2BzHONgCKTP4d6UffTTopXvS9lZg%3D%3D - success.
+[2021-07-03 22:12:20] [AppID 268910] Upload OK for file Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-07-03 22:12:20] [AppID 268910] Upload complete, result OK
+
+
+[2021-07-04 15:20:39] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-04 15:20:39] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-04 15:20:39] Starting sync job
+[2021-07-04 15:20:39] [AppID 7] Starting sync (init,)
+[2021-07-04 15:20:40] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-04 15:20:40] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-04 15:20:40] Starting sync job
+[2021-07-04 15:20:40] [AppID 7] Starting sync (init,)
+[2021-07-04 15:20:41] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-04 15:20:41] Starting sync job
+[2021-07-04 15:20:41] [AppID 7] Starting sync (eval,)
+[2021-07-04 15:20:42] [AppID 7] File is in sync sharedconfig.vdf
+[2021-07-04 15:20:42] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-07-04 15:20:42] [AppID 7] Eval complete
+[2021-07-04 15:20:42] Starting sync job
+[2021-07-04 15:20:42] [AppID 7] Starting sync (down,)
+[2021-07-04 15:20:42] [AppID 7] Download complete in build list
+
+
+[2021-07-15 14:40:03] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-15 14:40:04] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-15 14:40:04] Starting sync job
+[2021-07-15 14:40:04] [AppID 7] Starting sync (init,)
+[2021-07-15 14:40:04] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-15 14:40:04] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-15 14:40:04] Starting sync job
+[2021-07-15 14:40:04] [AppID 7] Starting sync (init,)
+[2021-07-15 14:40:05] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-15 14:40:05] Starting sync job
+[2021-07-15 14:40:05] [AppID 7] Starting sync (eval,)
+[2021-07-15 14:40:05] [AppID 7] File is in sync sharedconfig.vdf
+[2021-07-15 14:40:05] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-07-15 14:40:05] [AppID 7] Eval complete
+[2021-07-15 14:40:06] Starting sync job
+[2021-07-15 14:40:06] [AppID 7] Starting sync (down,)
+[2021-07-15 14:40:06] [AppID 7] Download complete in build list
+[2021-07-15 14:40:36] Starting sync job
+[2021-07-15 14:40:36] [AppID 7] Starting sync (up,)
+[2021-07-15 14:40:36] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-07-15 14:40:36] [AppID 7] Upload batch initiated, ID: 4394599960505454847, ChangeNumber: 11353694555040118095
+[2021-07-15 14:40:36] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-07-15 14:40:36] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (2800:3f0:4001:81d::2010 / 2800:3f0:4001:81d::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/7/02E_0_178A86F5_D1F63_248.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1626374437&Signature=oAU0yjlEhqolyk7CBKmMyw0ipCr%2BHCl9qdpPNLX5g6NLtKJs%2BPaVn0SPgO%2Bp4FWnmSLsB5VBNSFVnFQWyrAY5MOBPdtug5vNNJzYQeM%2B1%2FE%2BYY3A7U4cTQLMSu5UoJUcOeS1xZiYS9Hp3vt%2FSPh8NsFCBAJdqVwHXfv55CH45cz7Cy6pm6AuZ5EQ2P6ti7kyl7uo8THhvrNmD%2Bt9ZYNgiEPpSeLXfeiXbFMWQFkQre8iOGvqP2vjGIhobrTPmDsX4QA%2FHfurF4Si1NZXeiLifKgakWTvZaiSzl09fBUjn7%2FUcGWwomarzq24bIDaPrAViwd%2BnBZcxkijqPCyf3vNwQ%3D%3D - success.
+[2021-07-15 14:40:37] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-07-15 14:40:37] [AppID 7] Upload complete, result OK
+[2021-07-15 14:40:59] [AppID 349040] AutoCloud checking local state for user 149770036
+[2021-07-15 14:40:59] [U:1:149770036] [AppID 349040] Init cache request complete
+[2021-07-15 14:40:59] Starting sync job
+[2021-07-15 14:40:59] [AppID 349040] Starting sync (init,)
+[2021-07-15 14:40:59] [AppID 349040] AutoCloud checking local state for user 149770036
+[2021-07-15 14:40:59] Starting sync job
+[2021-07-15 14:40:59] [AppID 349040] Starting sync (eval,)
+[2021-07-15 14:40:59] [AppID 349040] File is in sync CheckBattleCut
+[2021-07-15 14:40:59] [AppID 349040] File is in sync LoginInfo
+[2021-07-15 14:40:59] [AppID 349040] File is in sync STORM4.S
+[2021-07-15 14:40:59] [AppID 349040] File is in sync UserInfo
+[2021-07-15 14:40:59] [AppID 349040] Eval complete
+[2021-07-15 14:41:14] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-07-15 14:41:14] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-07-15 14:41:14] [U:1:149770036] [AppID 297130] Init cache request complete
+[2021-07-15 14:41:14] Starting sync job
+[2021-07-15 14:41:14] [AppID 297130] Starting sync (init,)
+[2021-07-15 14:41:14] [AppID 297130] AutoCloud checking local state for user 149770036
+[2021-07-15 14:41:14] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-07-15 14:41:14] Starting sync job
+[2021-07-15 14:41:14] [AppID 297130] Starting sync (eval,)
+[2021-07-15 14:41:15] [AppID 297130] File is in sync data/SAVE/0.txt
+[2021-07-15 14:41:15] [AppID 297130] File is in sync data/SAVE/1.txt
+[2021-07-15 14:41:15] [AppID 297130] Eval complete
+[2021-07-15 14:41:23] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-07-15 14:41:23] [U:1:149770036] [AppID 268910] Init cache request complete
+[2021-07-15 14:41:23] Starting sync job
+[2021-07-15 14:41:23] [AppID 268910] Starting sync (init,)
+[2021-07-15 14:41:23] [AppID 268910] AutoCloud checking local state for user 149770036
+[2021-07-15 14:41:23] Starting sync job
+[2021-07-15 14:41:23] [AppID 268910] Starting sync (eval,)
+[2021-07-15 14:41:23] [AppID 268910] File is in sync Cuphead/cuphead_player_data_v1_slot_2.sav
+[2021-07-15 14:41:23] [AppID 268910] File is in sync Cuphead/cuphead_player_data_v1_slot_1.sav
+[2021-07-15 14:41:23] [AppID 268910] File is in sync Cuphead/cuphead_player_data_v1_slot_0.sav
+[2021-07-15 14:41:23] [AppID 268910] Eval complete
+[2021-07-15 14:41:30] [AppID 238320] AutoCloud checking local state for user 149770036
+[2021-07-15 14:41:31] [U:1:149770036] [AppID 238320] Init cache request complete
+[2021-07-15 14:41:31] Starting sync job
+[2021-07-15 14:41:31] [AppID 238320] Starting sync (init,)
+[2021-07-15 14:41:31] [AppID 238320] AutoCloud checking local state for user 149770036
+[2021-07-15 14:41:31] Starting sync job
+[2021-07-15 14:41:31] [AppID 238320] Starting sync (eval,)
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_19-52-22.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_19-58-43.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_19-59-25.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_20-15-48.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_20-17-22.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_20-19-45.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_20-20-40.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_20-22-28.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_20-23-27.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-13_20-28-2.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-1_14-40-32.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-1_14-43-2.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-1_14-47-57.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-1_14-50-26.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-1_15-5-38.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-1_15-9-34.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-1_22-54-3.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-1_23-4-38.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-3_12-56-0.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-3_12-59-48.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-3_13-27-16.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-3_13-28-0.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-3_13-28-19.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-3_13-29-33.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-4-3_13-5-37.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_21-57-58.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-0-42.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-11-50.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-15-34.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-21-20.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-22-15.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-22-59.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-3-33.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-5-45.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-10_22-8-22.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-6-9_1-13-24.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-7-10_23-18-2.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-7-10_23-21-9.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2018-7-10_23-22-38.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2020-6-21_22-43-34.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync OL_2020-6-21_22-45-18.sav
+[2021-07-15 14:41:31] [AppID 238320] File is in sync profile.bin
+[2021-07-15 14:41:31] [AppID 238320] Eval complete
+[2021-07-15 14:42:48] [AppID 297130] Running AutoCloud on exit. Looking for new and updated files
+[2021-07-15 14:42:48] [AppID 297130]     Evaluating rule 0 with root="GameInstall" path="data/SAVE/" pattern="*.txt"
+[2021-07-15 14:42:48] [AppID 297130]         Found 2 files that match D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\*.txt
+[2021-07-15 14:42:48] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-07-15 14:42:48] [AppID 297130]     No launch record found. Skipping looking for files while the game was running
+[2021-07-15 14:42:48] [AppID 297130]     Persisting file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\0.txt to the cloud
+[2021-07-15 14:42:48] [AppID 297130]	Skipping un-modified file data/SAVE/0.txt
+[2021-07-15 14:42:48] [AppID 297130]     Persisting file D:\- Programas\steam\steamapps\common\Titan Souls\data\SAVE\1.txt to the cloud
+[2021-07-15 14:42:48] [AppID 297130]	Skipping un-modified file data/SAVE/1.txt
+[2021-07-15 14:42:48] [AppID 297130]     Skipping rule 1 because it does not run on our platform
+[2021-07-15 14:42:48] [AppID 297130] AutoCloud complete
+[2021-07-15 14:42:48] Starting sync job
+[2021-07-15 14:42:48] [AppID 297130] Starting sync (up,AC Exit,)
+[2021-07-15 14:42:48] [AppID 297130] Upload complete in build list
+
+
+[2021-07-30 14:13:09] [AppID 7] Starting sync (init,)
+[2021-07-30 14:13:09] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-30 14:13:09] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-30 14:13:09] [AppID 7] Starting sync (init,)
+[2021-07-30 14:13:09] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-30 14:13:09] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-30 14:13:11] [AppID 7] Starting sync (eval,)
+[2021-07-30 14:13:11] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-30 14:13:11] [AppID 7] File is in sync sharedconfig.vdf
+[2021-07-30 14:13:11] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-07-30 14:13:11] [AppID 7] Eval complete
+[2021-07-30 14:13:11] [AppID 7] Starting sync (down,)
+[2021-07-30 14:13:11] [AppID 7] Download complete in build list
+[2021-07-30 14:13:11] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\- Programas\steam/userdata/149770036/7/remotecache.vdf'
+[2021-07-30 14:13:11] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\- Programas\steam/userdata/149770036/7/remotecache.vdf'
+[2021-07-30 14:13:19] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\- Programas\steam/userdata/149770036/7/remotecache.vdf'
+[2021-07-30 14:13:41] [AppID 7] Starting sync (up,)
+[2021-07-30 14:13:41] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-07-30 14:13:42] [AppID 7] Upload batch initiated, ID: 5308389847475504137, ChangeNumber: 15390273455313965849
+[2021-07-30 14:13:42] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-07-30 14:13:42] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (2800:3f0:4001:81f::2010 / 2800:3f0:4001:81f::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/7/02E_0_178A86F5_D1F63_249.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1627668823&Signature=R3r5%2BS6i3PK4%2BonN8NVkO3aYlv8orKu9q2vD0M2mGblLxDOmFcs9Gf8quskD7vmt073NbSyXXKtib6SdcTNpn58WNAIhYJbyNMEdx2ZHG%2BzYIlw12K%2FB7zgd7UpnnW8UM6YE%2FaFG1taV7ceEFvQxhw%2Bz%2BUeIV5tZAy6U1xWyna4c2VPMtmk18%2BDjDfLO9BF8J1hg3JEeXWGjdtO%2BzIYZ5mIn9ZQh1FMM6TSjP6ddIJtd4OfzkyLqBfHjk0kCweGHJGjyqdSSPX1LOe9YHrOo2hj29fZFRBZdZrN6zp85QLEwI9xnIIj41%2B%2BD45TDeM1%2FYIas1TPycGbxCi3fHqDgVA%3D%3D - success.
+[2021-07-30 14:13:43] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-07-30 14:13:43] [AppID 7] Upload complete, result OK
+[2021-07-30 14:13:43] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\- Programas\steam/userdata/149770036/7/remotecache.vdf'
+
+
+[2021-07-30 14:19:57] [AppID 7] Starting sync (init,)
+[2021-07-30 14:19:57] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-30 14:19:57] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-30 14:19:57] [AppID 7] Starting sync (init,)
+[2021-07-30 14:19:57] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-30 14:19:57] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-07-30 14:19:58] [AppID 7] Starting sync (eval,)
+[2021-07-30 14:19:58] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-07-30 14:19:59] [AppID 7] File is in sync sharedconfig.vdf
+[2021-07-30 14:19:59] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-07-30 14:19:59] [AppID 7] Eval complete
+[2021-07-30 14:19:59] [AppID 7] Starting sync (down,)
+[2021-07-30 14:19:59] [AppID 7] Download complete in build list
+[2021-07-30 14:19:59] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\- Programas\steam/userdata/149770036/7/remotecache.vdf'
+
+
+[2021-09-02 22:21:32] [AppID 7] Starting sync (init,)
+[2021-09-02 22:21:32] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-09-02 22:21:32] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-09-02 22:21:32] [AppID 7] Starting sync (init,)
+[2021-09-02 22:21:32] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-09-02 22:21:32] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-09-02 22:27:37] [AppID 7] Starting sync (init,)
+[2021-09-02 22:27:37] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-09-02 22:27:38] [U:1:149770036] [AppID 7] Init cache request complete
+[2021-09-02 22:27:38] [AppID 7] Starting sync (eval,)
+[2021-09-02 22:27:38] [AppID 7] AutoCloud checking local state for user 149770036
+[2021-09-02 22:27:38] [AppID 7] File is in sync sharedconfig.vdf
+[2021-09-02 22:27:38] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2021-09-02 22:27:38] [AppID 7] Eval complete
+[2021-09-02 22:27:38] [AppID 7] Starting sync (down,)
+[2021-09-02 22:27:38] [AppID 7] Download complete in build list
+[2021-09-02 22:27:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\- Programas\steam/userdata/149770036/7/remotecache.vdf'
+[2021-09-02 22:27:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\- Programas\steam/userdata/149770036/7/remotecache.vdf'
+[2021-09-02 22:28:08] [AppID 7] Starting sync (up,)
+[2021-09-02 22:28:08] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2021-09-02 22:28:08] [AppID 7] Upload batch initiated, ID: 1263961951664249461, ChangeNumber: 10363363292192943211
+[2021-09-02 22:28:09] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2021-09-02 22:28:09] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=4837) to (2800:3f0:4001:826::2010 / 2800:3f0:4001:826::2010, host: steamcloud-saopaulo.storage.googleapis.com), path /34/4F/ED/08/7/02E_0_178A86F5_D1F63_250.dat?GoogleAccessId=storage-access-account@steamcloud-southamerica.iam.gserviceaccount.com&Expires=1630636090&Signature=moLpEiLnSinm9mGoAaKP9WOxbTxt2g5McFvMXIGHh3EboVG7GYfOdI1WKZMDquL77LCvSAfj2%2FCkZc0ajQ9QjLgx4icXYGh%2Fg34Vvrd50uuox7IJBvqIr37L%2Ft7iT%2FAHqXJEesR3O2Bn4246IDDTOltT9wwyjEwBJdjQIZ0yDjd7t1o2hppH5aT3cGlTvfPObAUisB5DxfsAt0PXaFmPNB50IcopW3RHcPi4WgpLAmL%2F5ecu75X%2FoHrWWIhcQCWHxtPjTSsLcOddMBqahbyIqfEwNnbaN5zOuZy9VKqMnq6Bwx2uOp5X3zT6bbTQOUNwDb47lroJPIo6PuvNT9ainA%3D%3D - success.
+[2021-09-02 22:28:10] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2021-09-02 22:28:10] [AppID 7] Upload complete, result OK
+[2021-09-02 22:28:10] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\- Programas\steam/userdata/149770036/7/remotecache.vdf'
+
+
+[2022-01-21 07:31:01] [AppID 7] Starting sync (init,)
+[2022-01-21 07:31:01] [AppID 7] AutoCloud checking local state for user 149770036
+[2022-01-21 07:31:01] [AppID 7] Not running AutoCloud. No config data found
+[2022-01-21 07:31:01] [U:1:149770036] [AppID 7] Init cache request complete
+[2022-01-21 07:31:06] [AppID 7] Starting sync (down,)
+[2022-01-21 07:31:06] [AppID 7] Attempting to sync from local change number '0' to global change number '14338056350831671489'
+[2022-01-21 07:31:06] [AppID 7] Download complete in build list
+[2022-01-21 07:31:06] 

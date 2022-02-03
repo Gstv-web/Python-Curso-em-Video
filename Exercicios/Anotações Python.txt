@@ -1,0 +1,133 @@
+1 - **Tipos primitivos python**
+
+Para transformar string em número:
+
+int(input('')) - o int faz o que era string virar número. Sempre fechar um novo parênteses.
+
+ex: n1 = int(input('Digite um número: '))
+
+tipos primitivos para isso:
+
+int: Números inteiros [1, -4, 15, 13589]
+float: Números reais (ponto flutuante) [1.4, -8.960, 0.78, 0.098, 1.0]
+bool: valores lógicos (booleanos) [True, False] **Letra maiúscula**  
+str: 'palavras ou números entre aspas simples ou "duplas"'
+
+= atribuição
+== igual
+
+1.1 - **Montagem de comando(exemplo)**
+
+print(f'a soma vale {utilizar váriáveis aqui com contas ou o que for}') - fica melhor do que usar a vírgula pra botar a variável.
+
+
+NOTA: Se houver mais {}, basta botar .format(var1, var2, var3...) na ordem, quantas forem necessárias. Posso colocar 1, 2 ,3 dentro das chaves pra determinar a ordem de dentro dos parenteses.
+
+****************
+
+2 - **Alguns comandos**
+
+2.1 - type(mostra o tipo de uma variável)
+
+print(type(váriável))
+
+2.2 - is (verifica o tipo de uma váriável como verdadeiro ou falso) - método de teste de tipo.
+
+var = input('Digite algo')
+print(var.is())
+
+isupper - se a string for toda em maiúscula
+
+2.3 - print (mostra a mensagem ou código no programa)
+
+\n - nova linha
+end=' ' evita quebra de linha
+
+*****************
+
+3 - **Operações aritméticas**
+
+Além das báscisas adição, subtração, multiplicação e divisão, há também:
+
+** - Potência
+// - Divisão inteira (resultado sem vírgula)
+% - Módulo (resto da divisão)
+
+Precedência: () parenteses dentro de parenteses primeiro, **, *, /, //, % (resolve quem aparecer primeiro), + -
+
+******************
+
+4 - **Módulos** (bibliotecas)
+
+importando bibliotecas
+
+import NOMEDABIBLIOTECA - faz a importação de todos os dados da biblioteca
+
+from NOMEDABIBLIOTECA import - importa algo específico da biblioteca, pode ser mais de um
+
+
+Ex.
+import math (IMPORTAÇÕES SEMPRE NAS PRIMEIRAS LINHAS)
+num = int(input('Digite um número: '))
+raiz = math.sqrt(num) //no caso estou usando a biblioteca math importada mais acima com a função desejada - no caso raiz quadrada - da variável desejada.
+print('A raiz quadrada de {} é {}'.format(num, raiz)) // posso também usar dentro dos parenteses ali depois do format (ex. .format(num, math.ceil(raiz))
+
+usando o from import, não é preciso puxar a biblioteca, pois a função específica já está escolhida
+
+5 - ** Manipulação de string ** 
+
+5.1 - Fatiamento de texto - Serve para selecionar certos elementos no índice (index) da string.
+
+ex:
+
+frase = 'Arroz e Feijão'
+
+- Possui 15 caracteres;
+- espaço conta como caractere;
+- inicia do 0 e vai até o 14;
+
+5.2 - Tipos de fatiamento
+
+frase = 'Arroz e Feijão'
+
+frase[4] - z (pega o quinto caractere);
+frase[4:15] - z e Feijão (pega o quinto e o décimo quinto caractere)*
+*lembrando que se fosse :14, o 'o' não estaria, pois no último é sempre -1.;
+frase[4:15:2] - zeFiã (pega o quinto e o décimo quinto caractere, pulando duas casa, mas selecionando a segunda);
+frase[:4]/[4:] - Como não há números antes ou depois dos dois pontos, será selecionado tudo antes ou depois da string.;
+frase[9::3] - igual [4:15:2], porém não há o 15 para definir onde termina, então vai até o final da string, pulando 3 casas no caso.;
+
+5.3 - Análise de String
+
+frase = 'Arroz e Feijão'
+
+len(frase) - comprimento, quantos caracteres tem a string (length);
+frase.count('letra') - conta quantas letras escolhidas tem na string. Diferencia maiúsculas de minúsculas.; mostra em números
+frase.count('letra', 0, 10) - mesma coisa acima, porém entre os caracteres de 0 a 10.;
+frase.find('rro') - mostra em indice qual caractere começa o que você quer na string. No caso, vai mostrar 1. rro de 'Arroz', indice 1. String que não existe recebe -1.;
+'string' in frase - retorna true ou false se o que foi escrito tem na variável. Ou seja, 'Arroz' in frase é true, enquanto 'Queijo' in frase é false;
+
+5.4 - Transformação
+
+frase = 'Arroz e Feijão'
+
+frase.replace('Feijão', 'Ovo') - Troca a palavra desejada por outra, mas não em definitivo;
+frase.upper() - Deixa tudo maiúsuclo;
+frase.lower() - Deixa tudo minúsculo;
+frase.capitalize() - Deixa somente a primeira palavra da string com a letra maiúscula;
+frase.title() - Deixa todas as palavras da string com a primeira letra maiúsiula;
+frase.strip() - Remove espaços inúteis no inicio e no final da string ('  Arroz e Feijão  ');
+frase.rstrip() - trata pela direita somente;
+frase.lstrip() - trata pelea esquerda somente;
+
+5.5 - Divisão de strings
+
+frase = 'Arroz e Feijão'
+
+frase.split() - Divide uma variável str pelos seus espaços. No caso ['Arroz', 'e', 'Feijão'];
+
+5.6 - Junção de strings
+
+frase = 'Arroz e Feijão'
+
+'-'.join(frase)

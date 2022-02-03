@@ -1,0 +1,13 @@
+# TABUADA
+m = int(input('Digite um número para ver sua tabuada: '))
+# print(f'------------- \n6 x 1 = {m * 1};\n6 x 2 = {m * 2};\n6 x 3 = {m * 3};\n6 x 4 = {m * 4};\n6 x 5 = {m * 5};\n6 x 6 = {m * 6};\n6 x 7 = {m * 7};\n6 x 8 = {m * 8};\n6 x 9 = {m * 9};\n6 x 10 = {m * 10};\n-------------')
+print(f'------------ \n{m} x {1:2} = {m * 1};')
+print(f'{m} x {2:2} = {m * 2};')
+print(f'{m} x {3:2} = {m * 3};')
+print(f'{m} x {4:2} = {m * 4};')
+print(f'{m} x {5:2} = {m * 5};')
+print(f'{m} x {6:2} = {m * 6};')
+print(f'{m} x {7:2} = {m * 7};')
+print(f'{m} x {8:2} = {m * 8};')
+print(f'{m} x {9:2} = {m * 9};')
+print(f'{m} x {10:2} = {m * 10};\n-------------')
